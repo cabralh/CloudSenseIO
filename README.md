@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Henry Cabral - [@cabralhjr](https://twitter.com/cabralhjr) - hjcbr19@gmail.com
 
-Project Link: [https://github.com/cabralh/weather-station](https://github.com/cabralh/weather-station)
+Project Link: [https://github.com/cabralh/CloudSenseIO](https://github.com/cabralh/CloudSenseIO)
 
 
 
